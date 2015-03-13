@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svn/jike/!svn/ver/7539/edu/EduDiagnosis-ios/trunk/opencv-usage/opencv-usage/Library/opencv2.framework/Versions/A/Headers/video
+END
+background_segm.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/svn/jike/!svn/ver/7539/edu/EduDiagnosis-ios/trunk/opencv-usage/opencv-usage/Library/opencv2.framework/Versions/A/Headers/video/background_segm.hpp
+END
+tracking.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/svn/jike/!svn/ver/7539/edu/EduDiagnosis-ios/trunk/opencv-usage/opencv-usage/Library/opencv2.framework/Versions/A/Headers/video/tracking.hpp
+END
+video.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/svn/jike/!svn/ver/7539/edu/EduDiagnosis-ios/trunk/opencv-usage/opencv-usage/Library/opencv2.framework/Versions/A/Headers/video/video.hpp
+END
