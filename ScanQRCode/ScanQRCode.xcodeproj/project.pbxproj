@@ -32,6 +32,7 @@
 		7CF4562519878ED7008AB862 /* CoreVideo.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 7CF4562419878ED7008AB862 /* CoreVideo.framework */; };
 		7CF4562719878EE3008AB862 /* AudioToolbox.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 7CF4562619878EE3008AB862 /* AudioToolbox.framework */; };
 		7CF4562919878EEC008AB862 /* AVFoundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 7CF4562819878EEC008AB862 /* AVFoundation.framework */; };
+		D634B7351AB82F380061AC15 /* ScanView.m in Sources */ = {isa = PBXBuildFile; fileRef = D634B7341AB82F380061AC15 /* ScanView.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -99,6 +100,8 @@
 		7CF4562419878ED7008AB862 /* CoreVideo.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CoreVideo.framework; path = System/Library/Frameworks/CoreVideo.framework; sourceTree = SDKROOT; };
 		7CF4562619878EE3008AB862 /* AudioToolbox.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = AudioToolbox.framework; path = System/Library/Frameworks/AudioToolbox.framework; sourceTree = SDKROOT; };
 		7CF4562819878EEC008AB862 /* AVFoundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = AVFoundation.framework; path = System/Library/Frameworks/AVFoundation.framework; sourceTree = SDKROOT; };
+		D634B7331AB82F380061AC15 /* ScanView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ScanView.h; sourceTree = "<group>"; };
+		D634B7341AB82F380061AC15 /* ScanView.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = ScanView.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -186,6 +189,8 @@
 				7CF30FC91988908400236331 /* ScanAnimationView.h */,
 				7CF30FCA1988908400236331 /* ScanAnimationView.m */,
 				7CF454211987821F008AB862 /* Constants.h */,
+				D634B7331AB82F380061AC15 /* ScanView.h */,
+				D634B7341AB82F380061AC15 /* ScanView.m */,
 				7CF453FE19877F13008AB862 /* Images.xcassets */,
 				7CF453F319877F13008AB862 /* Supporting Files */,
 			);
@@ -351,6 +356,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				7CF4542419878B70008AB862 /* ScanQRViewController.mm in Sources */,
+				D634B7351AB82F380061AC15 /* ScanView.m in Sources */,
 				7CF453FD19877F13008AB862 /* AppDelegate.m in Sources */,
 				7CF453F919877F13008AB862 /* main.m in Sources */,
 				7CF4542019877FA4008AB862 /* HomeViewController.mm in Sources */,
