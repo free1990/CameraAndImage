@@ -1,0 +1,1 @@
+../../ZXingObjC/ZXingObjC/datamatrix/encoder/ZXC40Encoder.h

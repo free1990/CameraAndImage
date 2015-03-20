@@ -1,0 +1,1 @@
+../../ZXingObjC/ZXingObjC/multi/qrcode/detector/ZXMultiFinderPatternFinder.h

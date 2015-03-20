@@ -1,0 +1,1 @@
+../../ZXingObjC/ZXingObjC/client/ZXView.h

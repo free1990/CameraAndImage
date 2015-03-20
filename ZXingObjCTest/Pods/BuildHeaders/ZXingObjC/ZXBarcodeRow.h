@@ -1,0 +1,1 @@
+../../ZXingObjC/ZXingObjC/pdf417/encoder/ZXBarcodeRow.h
